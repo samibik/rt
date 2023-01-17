@@ -1,0 +1,44 @@
+.no-decoration {
+  text-decoration: none;
+}
+.lgtmoon-header {
+	background-image: url(assets/ink/ink002.png);
+}
+/** 言語切り替えボタン */
+.language-button {
+  position: absolute;
+  left: 300px;
+  top: 2px;
+}
+
+/** tweetボタン */
+.tweet-button {
+  position: absolute;
+  left: 300px;
+  top: 36px;
+}
+
+/** 右上部分の広告 */
+.top-ad {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+
+/** 右上広告の「スポンサーリンク」の文字 */
+.top-ad-text {
+  padding-top: 0px;
+  font-size: 0.75em;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.hidden {
+  display: none;
+}
